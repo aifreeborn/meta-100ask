@@ -1,4 +1,4 @@
-PREFERRED_PROVIDER_virtual/bootloader:imx-nxp-bsp = "u-boot-imx"
+PREFERRED_PROVIDER_virtual/bootloader:imx-nxp-bsp = "u-boot-100ask"
 PREFERRED_PROVIDER_virtual/kernel:imx-nxp-bsp = "linux-imx"
 PREFERRED_PROVIDER_linux-imx-mfgtool = "linux-imx-mfgtool"
 
