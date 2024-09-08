@@ -1,6 +1,6 @@
 PREFERRED_PROVIDER_virtual/bootloader:imx-nxp-bsp = "u-boot-100ask"
-PREFERRED_PROVIDER_virtual/kernel:imx-nxp-bsp = "linux-imx"
-PREFERRED_PROVIDER_linux-imx-mfgtool = "linux-imx-mfgtool"
+PREFERRED_PROVIDER_virtual/kernel:imx-nxp-bsp = "linux-100ask"
+PREFERRED_PROVIDER_linux-100ask-mfgtool = "linux-imx-mfgtool"
 
 PREFERRED_VERSION_gstreamer1.0              = "1.22.0.imx"
 PREFERRED_VERSION_gstreamer1.0-plugins-base = "1.22.0.imx"
